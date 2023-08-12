@@ -2,6 +2,8 @@
 
 This project implements a hybrid music recommendation system using Streamlit, a popular Python library for creating interactive web applications. The recommendation system combines content-based recommendations with popularity-based scoring to provide personalized suggestions for music tracks.
 
+![App View](https://github.com/Mohshaikh23/Spotify-Music-Recommendation-System/blob/7cd93ca94cbb1db778f1549c8517cdd31e9f496f/songs%20recommend.png)
+
 ## Table of Contents
 
 - [Spotify Music Recommendation System](#spotify-music-recommendation-system)
